@@ -9,4 +9,4 @@ Possible Improvement:
 
 (2) Extending to a game on a MxN board
 
-(3) Applying algorithm to Four In A Row
+(3) Applying algorithm to the game 'Four In A Row'
